@@ -1,0 +1,8 @@
+torch>=2.0
+torchvision>=0.15
+numpy
+scipy
+scikit-learn
+medmnist>=3.0
+# optional, only needed for --backbone biomedclip
+open_clip_torch
